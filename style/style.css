@@ -434,7 +434,8 @@ main .plans-container .cards .card {
   display: flex;
   flex-direction: column;
   color: white;
-  min-width: 450px;
+  width: 600px;
+  max-width: 400px;
   margin-top: 80px;
 }
 main .plans-container .cards .card h4 {
